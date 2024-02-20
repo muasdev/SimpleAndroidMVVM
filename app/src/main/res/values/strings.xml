@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleAndroidMVVM</string>
+    <string name="no">Id</string>
+    <string name="email">email</string>
+    <string name="username">Username</string>
+    <string name="role">Role</string>
+    <string name="password">password</string>
+    <string name="normal_user">Normal User</string>
+    <string name="admin">Admin</string>
+    <string name="logout">logout</string>
+</resources>
