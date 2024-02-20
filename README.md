@@ -28,8 +28,7 @@ A simple Android MVVM project
 
 ## Under Development 🚧
 
-- ~~Add CI~~
-- ~~Use Kotlin DSL~~
+- Add CI
 - Add More Unit tests.
 - Migrate to [JetPack Compose](https://developer.android.com/jetpack/compose)
 
